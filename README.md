@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snk97
 - 👀 I’m interested in programming and physics 
-- 🌱 I’m currently learning C and JAVA
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> email sn409727@gmail.com
 
